@@ -1,0 +1,156 @@
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.exe
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csprojAssemblyReference.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.AssemblyInfo.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorAssemblyInfo.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorAssemblyInfo.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.TagHelpers.input.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.TagHelpers.output.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorCoreGenerate.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorTargetAssemblyInfo.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorTargetAssemblyInfo.cs
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\staticwebassets\CrudEntityFramework.StaticWebAssets.Manifest.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\staticwebassets\CrudEntityFramework.StaticWebAssets.xml
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csproj.CopyComplete
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.deps.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.runtimeconfig.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.runtimeconfig.dev.json
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.pdb
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.Views.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.Views.pdb
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.Views.pdb
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.dll
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.pdb
+C:\Users\Pablo Castillo\source\repos\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.genruntimeconfig.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\appsettings.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.exe
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.deps.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.runtimeconfig.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.runtimeconfig.dev.json
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.Views.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\CrudEntityFramework.Views.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csprojAssemblyReference.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.AssemblyInfoInputs.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.AssemblyInfo.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorAssemblyInfo.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorAssemblyInfo.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.TagHelpers.input.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.TagHelpers.output.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorCoreGenerate.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorTargetAssemblyInfo.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.RazorTargetAssemblyInfo.cs
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.Views.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csproj.CopyComplete
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\staticwebassets\CrudEntityFramework.StaticWebAssets.Manifest.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\staticwebassets\CrudEntityFramework.StaticWebAssets.xml
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.genruntimeconfig.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.csproj.CoreCompileInputs.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\obj\Debug\netcoreapp3.1\CrudEntityFramework.MvcApplicationPartsAssemblyInfo.cache
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\tutoriales\CrudEntityFramework\CrudEntityFramework\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
